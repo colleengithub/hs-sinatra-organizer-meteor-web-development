@@ -46,4 +46,4 @@ Your job is to find and move the following files:
 
 Use the commands we've learned to move the files to their correct places. If everything prints green, you've successfully organized all the files!
 <br>
-<a href='https://learn.co/lessons/hs-sinatra-organizer' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-sinatra-organizer' title='Organize Your Sinatra Template'>Organize Your Sinatra Template</a> on Learn.co and start learning to code for free.</p>
